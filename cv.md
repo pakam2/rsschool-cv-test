@@ -21,12 +21,14 @@ ___
 	![Django](https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png)   Django
 	
 
+___
 
 *  ### Code examples
 1. [Home organization tools](https://github.com/pakam2/python-projects/)
 
 
 ___
+
 *  ### Experience
 - IT Specialist
 - VBA Developer
@@ -35,6 +37,7 @@ ___
 
 
 ___
+
 *  ### Education
 - Coders Lab - Python backend developer
 - CodeWars tasks
